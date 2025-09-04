@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Sem7</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="delete">Delete</string>
+    <string name="add">ADD</string>
+    <string name="serial_number">Serial Number</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="version">Version</string>
+    <string name="version_name">Version Name</string>
+    <string name="bird">bird</string>
+    <string name="nothing">nothing</string>
+    <string name="twitter">Twitter</string>
+    <string name="twitter_desc">Twitter is dead now ! ...</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="status">STATUS</string>
+    <string name="calls">CALLS</string>
+    <string name="my_status">My Status</string>
+    <string name="tap_to_add_status">tap to add status</string>
+    <string name="recent_updates">Recent updates</string>
+    <string name="krishna">Krishna</string>
+    <string name="dura">15 minutes ago, 3:00 pm</string>
+    <string name="profilepic">profilePic</string>
+    <string name="my_item">My Item</string>
+    <string name="grid_item_image">grid_item_image</string>
+</resources>
